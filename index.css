@@ -1,0 +1,39 @@
+.bg-container{
+    
+    height: 100vh;
+}
+.h1{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-family: "roboto";
+}
+.h2{
+    text-align: center;
+    color:blue;
+    font-size: 25px;
+    font-family: "roboto";
+}
+.img{
+    width: 100px;
+    margin-left: 570px;
+    margin-top: 30px;
+}
+.btn{
+    margin-left: 570px;
+    padding-top: 25px;
+}
+.btn1{
+    background-color: green;
+    color: white;
+}
+.btn2{
+    background-color: red;
+    color: white;
+}
+.result{
+    background-color:black;
+    height:20vh;
+    width: 20vw;
+    margin-left: 500px;
+}
